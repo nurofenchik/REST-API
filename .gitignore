@@ -1,0 +1,52 @@
+# Build directory
+build/
+*.o
+*.a
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE files
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Compiled binaries
+RestAPI
+rest-api
+*.exe
+
+# Docker
+.dockerignore
+
+# Environment files
+.env
+.env.local
+
+# OS generated files
+Thumbs.db
+Desktop.ini

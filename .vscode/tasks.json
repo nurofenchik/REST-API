@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build C++ REST API",
+			"type": "shell",
+			"command": "mkdir -p build && cd build && cmake .. && make -j$(nproc)",
+			"group": "build",
+			"problemMatcher": [
+				"$gcc"
+			],
+			"isBackground": false
+		}
+	]
+}
