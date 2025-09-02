@@ -245,8 +245,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Mark]([https://github.com/yourusername](https://github.com/RePlay-h)) [@Nurislam](https://github.com/nurofenchik)
 
 ## 🙏 Acknowledgments
 
